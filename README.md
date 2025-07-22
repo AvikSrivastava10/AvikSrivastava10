@@ -1,3 +1,9 @@
+
+### 🔥 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AvikSrivastava10&label=Profile%20views&color=0e75b6&style=flat" alt="Avik's profile views" />
+</p>
 <h1 align="center">Hi 👋, I'm Avik Srivastava</h1>
 <h3 align="center">🚀 A passionate full-stack developer, AI innovator & hackathon enthusiast</h3>
 
@@ -47,14 +53,11 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/avik-srivastava-10" target="_blank">
+  <a href="https://www.linkedin.com/in/avik-srivastava-48922131b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:aviksrivastava786@email.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge" />
-  </a>
-  <a href="https://oculink.in" target="_blank">
-    <img src="https://img.shields.io/badge/-Oculink-informational?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
@@ -67,8 +70,3 @@
 
 ---
 
-### 🔥 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AvikSrivastava10&label=Profile%20views&color=0e75b6&style=flat" alt="Avik's profile views" />
-</p>
