@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avik Srivastava</h1>
-<h3 align="center">Code Gladiator | Precsion Driven | AI Architect </h3>
+<h3 align="center">Code Gladiator | Precision Driven | AI Architect </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Lover+of+Code%2C+Books+%26+Coffee" alt="Typing SVG" />
